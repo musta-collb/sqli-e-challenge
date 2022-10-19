@@ -1,0 +1,4 @@
+Building: Entité principale ( requestElevator )
+* Une seule requestElevator()
+* Elevators : HashMap<>
+* Dispatcher
